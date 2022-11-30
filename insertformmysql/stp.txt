@@ -1,0 +1,4 @@
+1. start sql
+2. npm start
+3. localhost:8000
+db perdagangan table barang
